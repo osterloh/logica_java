@@ -42,7 +42,7 @@ public class Exer02_SwitchCase_DoWhile {
 							System.out.print("Quantas maquinas estao sendo cadastradas? ");
 							qtdMaq = in.nextInt();
 							totMaq = totMaq + qtdMaq;
-							valorTot = valorUni*totMaq;
+							valorTot = valorUni * totMaq;
 						}
 					} else {
 						System.out.print("Informe o modelo da maquina: ");
